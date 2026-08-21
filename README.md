@@ -293,47 +293,6 @@ Type *"why pineapple belongs on pizza"* and an episode is written from nothing �
 | 🎉 | **[Project Birthday](https://github.com/ys941/Project-birthday)** | A five-screen interactive birthday site built as a gift — animated transitions, particle effects and a little narrative. Proof that not everything has to be a SaaS. |
 | 🧪 | **[Kaggle — Qwen3-8B dual RAG](https://www.kaggle.com/yatibhardwaj123)** | One 8B GGUF model serving **two** retrieval-augmented personas from the same weights: a cath-lab clinical assistant and a casual chat persona. |
 
-
-<br />
-
----
-
-<div align="center">
-
-## 🌌 What I've been busy with
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/build-log-dark.svg">
-  <img alt="Build log: 198 hours over 60 days across seven months, 48 of them past midnight, 122 libraries learned from scratch, on a two-core laptop with no GPU, with no teammates" src="assets/build-log-light.svg" width="100%" />
-</picture>
-
-</div>
-
-**198 hours, it turns out. I finally counted.**
-
-Sixty days across seven months — and forty-eight of those hours landed somewhere
-between midnight and five in the morning. 🌙
-
-122 libraries learned from scratch, one documentation page at a time,
-usually at 2 AM, usually alone. 📖
-
-All of it on a **two-core laptop with no GPU**. No team. Nobody waiting for it. 💻
-
-In that time I taught a browser to edit video 🎬, built something that opens and reads
-medical scans 🫀, something that screens brain recordings 🧠, something that runs a whole
-channel by itself 📺, and two little robots that host a podcast together 🤖.
-
-> There were weeks where the only thing I achieved was making something stop breaking.<br>
-> **That still counts. That's most of it, honestly.** 😮‍💨
-
-It's all sitting here now, open, for anyone who wants to look. ⬆️
-
-<div align="center">
-
-<sub>*Made with stubbornness.* 🤍</sub>
-
-</div>
-
 <br />
 
 ---
