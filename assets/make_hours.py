@@ -79,6 +79,6 @@ def build(theme):
 if __name__ == "__main__":
     out = Path(__file__).parent
     for theme in THEMES:
-        p = out / f"hours-{theme}.svg"
+        p = out / f"build-log-{theme}.svg"
         p.write_text(build(theme), encoding="utf-8")
         print(f"wrote {p.name} ({p.stat().st_size} bytes)")

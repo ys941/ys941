@@ -303,8 +303,8 @@ Type *"why pineapple belongs on pizza"* and an episode is written from nothing â
 ## ðŸŒŒ What I've been busy with
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/hours-dark.svg">
-  <img alt="Build log: 198 hours over 60 days across seven months, 48 of them past midnight, 122 libraries learned from scratch, on a two-core laptop with no GPU, with no teammates" src="assets/hours-light.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/build-log-dark.svg">
+  <img alt="Build log: 198 hours over 60 days across seven months, 48 of them past midnight, 122 libraries learned from scratch, on a two-core laptop with no GPU, with no teammates" src="assets/build-log-light.svg" width="100%" />
 </picture>
 
 </div>
