@@ -300,18 +300,37 @@ Type *"why pineapple belongs on pizza"* and an episode is written from nothing �
 
 <div align="center">
 
-## 📊 Ship log
+## 🌌 What I've been busy with
 
-<img src="https://streak-stats.demolab.com/?user=ys941&hide_border=true&background=0D1117&stroke=21262D&ring=7C3AED&fire=E4405F&currStreakLabel=7C3AED&sideLabels=9CA3AF&dates=6B7280&currStreakNum=E6EDF3&sideNums=E6EDF3" width="70%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hours-dark.svg">
+  <img alt="Build log: 198 hours over 60 days across seven months, 48 of them past midnight, 122 libraries learned, 277k files, 8.4 GB shipped" src="assets/hours-light.svg" width="100%" />
+</picture>
 
-<br /><br />
+</div>
 
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ys941&theme=github_dark" />
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ys941&theme=github_dark" />
+**198 hours, it turns out. I finally counted.**
 
-<br /><br />
+Sixty days across seven months — and forty-eight of those hours happened somewhere
+between midnight and five in the morning. 🌙
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ys941&bg_color=0D1117&color=7C3AED&line=E4405F&point=FFFFFF&area=true&hide_border=true&custom_title=Commits%20after%20hours" width="95%" />
+277,000 files. 29,000 folders. 8.4 GB. 📂 122 libraries I had to learn from scratch,
+one documentation page at a time, usually at 2 AM, usually alone. 📖
+
+In that time I taught a browser to edit video. 🎬 Built something that opens and reads
+medical scans. 🫀 Something that screens brain recordings. 🧠 Something that runs a whole
+channel by itself. 📺 And two little robots that host a podcast together. 🤖
+
+Not on a good machine. Not with a team. Not with anyone waiting for it.
+
+> There were weeks where the only thing I achieved was making something stop breaking.<br>
+> **That still counts. That's most of it, honestly.** 😮‍💨
+
+It's all sitting here now, open, for anyone who wants to look. ⬆️
+
+<div align="center">
+
+<sub>*Made with stubbornness.* 🤍</sub>
 
 </div>
 

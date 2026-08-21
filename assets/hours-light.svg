@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="406" viewBox="0 0 1000 406" role="img" aria-label="Build log: 198 hours over 60 days across seven months, 48 of them past midnight, 122 libraries learned, 277 thousand files, 8.4 gigabytes shipped">
+<rect width="1000" height="406" rx="10" fill="#FFFFFF" stroke="#D1D9E0"/>
+<text x="34" y="46" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="15" font-weight="700" fill="#1F2328" letter-spacing="1.5">BUILD LOG</text>
+<text x="966" y="46" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#59636E" text-anchor="end" letter-spacing="1.2">SEVEN MONTHS &#183; NO TEAM &#183; NO GOOD MACHINE</text>
+<line x1="34" y1="62" x2="966" y2="62" stroke="#D1D9E0"/>
+<rect x="34" y="88" width="300" height="118" rx="8" fill="#F6F8FA" stroke="#A371F7" stroke-opacity="0.35"/>
+<rect x="34" y="88" width="300" height="118" rx="8" fill="#A371F7" fill-opacity="0.10"/>
+<text x="184" y="152" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="42" font-weight="700" fill="#A371F7" text-anchor="middle">198</text>
+<text x="184" y="180" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#59636E" text-anchor="middle">hours, counted</text>
+<rect x="350" y="88" width="300" height="118" rx="8" fill="#F6F8FA" stroke="#A371F7" stroke-opacity="0.35"/>
+<rect x="350" y="88" width="300" height="118" rx="8" fill="#A371F7" fill-opacity="0.10"/>
+<text x="500" y="152" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="42" font-weight="700" fill="#A371F7" text-anchor="middle">60</text>
+<text x="500" y="180" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#59636E" text-anchor="middle">days across 7 months</text>
+<rect x="666" y="88" width="300" height="118" rx="8" fill="#F6F8FA" stroke="#F778BA" stroke-opacity="0.35"/>
+<rect x="666" y="88" width="300" height="118" rx="8" fill="#F778BA" fill-opacity="0.10"/>
+<text x="816" y="152" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="42" font-weight="700" fill="#F778BA" text-anchor="middle">48</text>
+<text x="816" y="180" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#59636E" text-anchor="middle">of them past midnight</text>
+<rect x="34" y="222" width="300" height="118" rx="8" fill="#F6F8FA" stroke="#2DB7F5" stroke-opacity="0.35"/>
+<rect x="34" y="222" width="300" height="118" rx="8" fill="#2DB7F5" fill-opacity="0.10"/>
+<text x="184" y="286" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="42" font-weight="700" fill="#2DB7F5" text-anchor="middle">122</text>
+<text x="184" y="314" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#59636E" text-anchor="middle">libraries learned</text>
+<rect x="350" y="222" width="300" height="118" rx="8" fill="#F6F8FA" stroke="#2DB7F5" stroke-opacity="0.35"/>
+<rect x="350" y="222" width="300" height="118" rx="8" fill="#2DB7F5" fill-opacity="0.10"/>
+<text x="500" y="286" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="42" font-weight="700" fill="#2DB7F5" text-anchor="middle">277k</text>
+<text x="500" y="314" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#59636E" text-anchor="middle">files &#183; 29k folders</text>
+<rect x="666" y="222" width="300" height="118" rx="8" fill="#F6F8FA" stroke="#3FB950" stroke-opacity="0.35"/>
+<rect x="666" y="222" width="300" height="118" rx="8" fill="#3FB950" fill-opacity="0.10"/>
+<text x="816" y="286" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="42" font-weight="700" fill="#3FB950" text-anchor="middle">8.4 GB</text>
+<text x="816" y="314" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#59636E" text-anchor="middle">written and shipped</text>
+<line x1="34" y1="356" x2="966" y2="356" stroke="#D1D9E0"/>
+<text x="34" y="380" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="11.5" fill="#59636E">a browser that edits video &#183; a viewer that reads scans &#183; a screener for brain recordings &#183; a channel that runs itself</text>
+<text x="966" y="380" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="11.5" fill="#59636E" text-anchor="end">made with stubbornness</text>
+</svg>
