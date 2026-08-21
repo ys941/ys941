@@ -15,12 +15,12 @@ MONO = "ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monosp
 
 # The real tally, seven months of nights.
 CELLS = [
-    ("198",     "hours, counted",        "#A371F7"),
-    ("60",      "days across 7 months",  "#A371F7"),
-    ("48",      "of them past midnight", "#F778BA"),
-    ("122",     "libraries learned",     "#2DB7F5"),
-    ("277k",    "files &#183; 29k folders",   "#2DB7F5"),
-    ("8.4 GB",  "written and shipped",   "#3FB950"),
+    ("198",  "hours, counted",           "#A371F7"),
+    ("60",   "days across 7 months",     "#A371F7"),
+    ("48",   "of them past midnight",    "#F778BA"),
+    ("122",  "libraries, from scratch",  "#2DB7F5"),
+    ("2",    "CPU cores &#183; no GPU",       "#F0883E"),
+    ("0",    "teammates",                "#3FB950"),
 ]
 
 THEMES = {
@@ -44,7 +44,7 @@ def build(theme):
         f'<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{height:.0f}" '
         f'viewBox="0 0 {W} {height:.0f}" role="img" '
         f'aria-label="Build log: 198 hours over 60 days across seven months, 48 of them past midnight, '
-        f'122 libraries learned, 277 thousand files, 8.4 gigabytes shipped">',
+        f'122 libraries learned from scratch, on a 2 core laptop with no GPU, with no teammates">',
         f'<rect width="{W}" height="{height:.0f}" rx="10" fill="{t["bg"]}" stroke="{t["line"]}"/>',
         f'<text x="{PAD}" y="46" font-family="{MONO}" font-size="15" font-weight="700" '
         f'fill="{t["text"]}" letter-spacing="1.5">BUILD LOG</text>',

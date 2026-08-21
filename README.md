@@ -311,17 +311,17 @@ Type *"why pineapple belongs on pizza"* and an episode is written from nothing �
 
 **198 hours, it turns out. I finally counted.**
 
-Sixty days across seven months — and forty-eight of those hours happened somewhere
+Sixty days across seven months — and forty-eight of those hours landed somewhere
 between midnight and five in the morning. 🌙
 
-277,000 files. 29,000 folders. 8.4 GB. 📂 122 libraries I had to learn from scratch,
-one documentation page at a time, usually at 2 AM, usually alone. 📖
+122 libraries learned from scratch, one documentation page at a time,
+usually at 2 AM, usually alone. 📖
 
-In that time I taught a browser to edit video. 🎬 Built something that opens and reads
-medical scans. 🫀 Something that screens brain recordings. 🧠 Something that runs a whole
-channel by itself. 📺 And two little robots that host a podcast together. 🤖
+All of it on a **two-core laptop with no GPU**. No team. Nobody waiting for it. 💻
 
-Not on a good machine. Not with a team. Not with anyone waiting for it.
+In that time I taught a browser to edit video 🎬, built something that opens and reads
+medical scans 🫀, something that screens brain recordings 🧠, something that runs a whole
+channel by itself 📺, and two little robots that host a podcast together 🤖.
 
 > There were weeks where the only thing I achieved was making something stop breaking.<br>
 > **That still counts. That's most of it, honestly.** 😮‍💨
