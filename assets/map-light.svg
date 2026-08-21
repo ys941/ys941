@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="482" viewBox="0 0 1000 482" role="img" aria-label="Portfolio map: ten projects across clinical AI, autonomous systems and creative tools">
+<rect width="1000" height="482" rx="10" fill="#FFFFFF" stroke="#D1D9E0"/>
+<text x="34" y="46" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="15" font-weight="700" fill="#1F2328" letter-spacing="1.5">YS941 / PORTFOLIO</text>
+<text x="966" y="46" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#59636E" text-anchor="end" letter-spacing="1.2">10 PROJECTS &#183; 3 DOMAINS &#183; SHIPPED SOLO</text>
+<line x1="34" y1="66" x2="966" y2="66" stroke="#D1D9E0"/>
+<rect x="34" y="80" width="3" height="54" rx="1.5" fill="#2DB7F5"/>
+<text x="50" y="96" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" font-weight="700" fill="#2DB7F5" letter-spacing="1.3">CLINICAL AI</text>
+<text x="50" y="118" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" fill="#59636E">2 shipped</text>
+<rect x="250" y="74" width="200" height="40" rx="7" fill="#2DB7F5" fill-opacity="0.12" stroke="#2DB7F5" stroke-opacity="0.45"/>
+<text x="265" y="91" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="13.5" font-weight="600" fill="#1F2328">Aura</text>
+<text x="265" y="105" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#59636E">universal DICOM workstation</text>
+<rect x="462.1" y="74" width="206" height="40" rx="7" fill="#2DB7F5" fill-opacity="0.12" stroke="#2DB7F5" stroke-opacity="0.45"/>
+<text x="477.1" y="91" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="13.5" font-weight="600" fill="#1F2328">EEG Analyzer</text>
+<text x="477.1" y="105" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#59636E">epilepsy screening workbench</text>
+<rect x="34" y="184" width="3" height="54" rx="1.5" fill="#A371F7"/>
+<text x="50" y="200" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" font-weight="700" fill="#A371F7" letter-spacing="1.3">AUTONOMOUS SYSTEMS</text>
+<text x="50" y="222" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" fill="#59636E">4 shipped</text>
+<rect x="250" y="178" width="150" height="40" rx="7" fill="#A371F7" fill-opacity="0.12" stroke="#A371F7" stroke-opacity="0.45"/>
+<text x="265" y="195" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="13.5" font-weight="600" fill="#1F2328">InstaPilot</text>
+<text x="265" y="209" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#59636E">Instagram + YouTube</text>
+<rect x="411.7" y="178" width="194" height="40" rx="7" fill="#A371F7" fill-opacity="0.12" stroke="#A371F7" stroke-opacity="0.45"/>
+<text x="426.7" y="195" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="13.5" font-weight="600" fill="#1F2328">YouTubePilot</text>
+<text x="426.7" y="209" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#59636E">Shorts channel, unattended</text>
+<rect x="617.5" y="178" width="143" height="40" rx="7" fill="#A371F7" fill-opacity="0.12" stroke="#A371F7" stroke-opacity="0.45"/>
+<text x="632.5" y="195" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="13.5" font-weight="600" fill="#1F2328">CardioFlow</text>
+<text x="632.5" y="209" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#59636E">multi-brand engine</text>
+<rect x="772.9" y="178" width="176" height="40" rx="7" fill="#A371F7" fill-opacity="0.12" stroke="#A371F7" stroke-opacity="0.45"/>
+<text x="787.9" y="195" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="13.5" font-weight="600" fill="#1F2328">WhatsApp AutoPilot</text>
+<text x="787.9" y="209" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#59636E">replies in your voice</text>
+<rect x="34" y="288" width="3" height="54" rx="1.5" fill="#F778BA"/>
+<text x="50" y="304" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" font-weight="700" fill="#F778BA" letter-spacing="1.3">CREATIVE &amp; TOOLS</text>
+<text x="50" y="326" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" fill="#59636E">4 shipped</text>
+<rect x="250" y="282" width="181" height="40" rx="7" fill="#F778BA" fill-opacity="0.12" stroke="#F778BA" stroke-opacity="0.45"/>
+<text x="265" y="299" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="13.5" font-weight="600" fill="#1F2328">ReelStudio</text>
+<text x="265" y="313" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#59636E">4K editor in the browser</text>
+<rect x="443.2" y="282" width="169" height="40" rx="7" fill="#F778BA" fill-opacity="0.12" stroke="#F778BA" stroke-opacity="0.45"/>
+<text x="458.2" y="299" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="13.5" font-weight="600" fill="#1F2328">Aria</text>
+<text x="458.2" y="313" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#59636E">AI-to-AI robot podcast</text>
+<rect x="623.8" y="282" width="194" height="40" rx="7" fill="#F778BA" fill-opacity="0.12" stroke="#F778BA" stroke-opacity="0.45"/>
+<text x="638.8" y="299" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="13.5" font-weight="600" fill="#1F2328">Grabbit</text>
+<text x="638.8" y="313" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#59636E">paste a link, get the file</text>
+<rect x="250" y="328" width="156" height="40" rx="7" fill="#F778BA" fill-opacity="0.12" stroke="#F778BA" stroke-opacity="0.45"/>
+<text x="265" y="345" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="13.5" font-weight="600" fill="#1F2328">masstree.in</text>
+<text x="265" y="359" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#59636E">microbiology toolkit</text>
+<line x1="34" y1="418" x2="966" y2="418" stroke="#D1D9E0"/>
+<text x="34" y="440" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" fill="#59636E" letter-spacing="0.4">Next.js  ·  TypeScript  ·  Python  ·  FastAPI  ·  Postgres  ·  Prisma  ·  FFmpeg  ·  three.js  ·  Cornerstone.js  ·  MNE</text>
+<text x="966" y="440" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" fill="#59636E" text-anchor="end">built at the bench &#9749;</text>
+</svg>
