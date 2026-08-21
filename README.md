@@ -304,7 +304,7 @@ Type *"why pineapple belongs on pizza"* and an episode is written from nothing â
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/hours-dark.svg">
-  <img alt="Build log: 198 hours over 60 days across seven months, 48 of them past midnight, 122 libraries learned, 277k files, 8.4 GB shipped" src="assets/hours-light.svg" width="100%" />
+  <img alt="Build log: 198 hours over 60 days across seven months, 48 of them past midnight, 122 libraries learned from scratch, on a two-core laptop with no GPU, with no teammates" src="assets/hours-light.svg" width="100%" />
 </picture>
 
 </div>
