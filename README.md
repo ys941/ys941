@@ -161,9 +161,9 @@ Running a serious Instagram *and* YouTube presence is two full-time jobs — ide
 
 <br />
 
-### ▶️ [YouTubePilot AI](https://github.com/ys941/youtubepilot-ai-showcase) — a faceless worker that runs a Shorts channel
+### ▶️ [YouTubePilot AI](https://github.com/ys941/youtubepilot-ai) — a faceless worker that runs a Shorts channel
 
-<img src="https://img.shields.io/badge/status-running%20at%20scale-2ea44f?style=flat-square" /> <img src="https://img.shields.io/badge/source-private-30363D?style=flat-square" />
+<img src="https://img.shields.io/badge/status-running%20at%20scale-2ea44f?style=flat-square" /> <img src="https://img.shields.io/badge/source-public-2ea44f&logo=github&logoColor=white?style=flat-square" /> <img src="https://img.shields.io/badge/license-MIT-7C3AED?style=flat-square" />
 
 > **Idea → script → video → upload → engage. Fully unattended.**
 
