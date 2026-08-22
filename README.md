@@ -142,7 +142,7 @@ An end-to-end screening workbench: drop in a standard recording and it opens the
 
 </div>
 
-### 🚀 [InstaPilot AI](https://github.com/ys941/instapilot-ai) — a whole content team for Instagram **+** YouTube
+### 🚀 [InstaPilot AI](https://github.com/ys941/cardioflow-ai) — a whole content team for Instagram **+** YouTube
 
 <img src="https://img.shields.io/badge/status-running%20at%20scale-2ea44f?style=flat-square" /> <img src="https://img.shields.io/badge/source-public-2ea44f&logo=github&logoColor=white?style=flat-square" /> <img src="https://img.shields.io/badge/license-MIT-7C3AED?style=flat-square" />
 
