@@ -95,9 +95,9 @@ on caffeine.
 
 </div>
 
-### 🫀 [Aura — Universal Clinical Viewer](https://github.com/ys941/aura-clinical-viewer-showcase)
+### 🫀 [Aura — Universal Clinical Viewer](https://github.com/ys941/aura-clinical-viewer)
 
-<img src="https://img.shields.io/badge/status-working%20prototype-F59E0B?style=flat-square" /> <img src="https://img.shields.io/badge/source-private-30363D?style=flat-square" />
+<img src="https://img.shields.io/badge/status-working%20prototype-F59E0B?style=flat-square" /> <img src="https://img.shields.io/badge/source-public-2ea44f&logo=github&logoColor=white?style=flat-square" /> <img src="https://img.shields.io/badge/licence-MIT%20%2B%20attribution-7C3AED?style=flat-square" />
 
 > **One workstation for every scan.** A clinician shouldn't need one tool for a CT, another for a fundus photograph and a third for a scanned report.
 
@@ -110,7 +110,7 @@ Aura opens a bare study file with no extension, a multi-frame series, a **ZIP co
 - 📄 Editable structured report with embedded key image and series table → polished document or PDF; cine scrubbing and **animated-GIF export** for presentations
 - ⌨️ Reads like a real workstation: corner patient/institution details, orientation letters, live tissue values under the cursor, shortcuts for every tool
 
-<sub>`Next.js` `TypeScript` `Cornerstone.js` `MedGemma` · ⚕️ *research prototype — not a medical device*</sub>
+<sub>`Next.js` `TypeScript` `Cornerstone.js` `MedGemma` · <b>source public</b> · MIT · ⚕️ *research prototype — not a medical device*</sub>
 
 <br />
 
