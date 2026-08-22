@@ -246,9 +246,9 @@ Auto-reply is **off by default and opt-in per contact** — a master switch *plu
 
 <br />
 
-### 🎙️ [Aria](https://github.com/ys941/aria-showcase) — an AI-to-AI podcast hosted by 3D robots
+### 🎙️ [Aria](https://github.com/ys941/aria) — an AI-to-AI podcast hosted by 3D robots
 
-> Pick a topic. Two robots take the mic. **Neither of them knew what they were going to say.**
+> Pick a topic. Two robots take the mic. **Neither of them knew what they were going to say.** <img src="https://img.shields.io/badge/licence-MIT%20%2B%20attribution-7C3AED?style=flat-square" />
 
 Type *"why pineapple belongs on pizza"* and an episode is written from nothing — cast invented to fit the subject, roughly two dozen lines — then voiced line by line and streamed to your browser, where two robot hosts perform it. From a blank field to two robots arguing: about a minute.
 
@@ -258,7 +258,7 @@ Type *"why pineapple belongs on pizza"* and an episode is written from nothing �
 - 🎨 Fifteen themes with ambient atmosphere — drifting petals, floating embers, slow stars — that quietens itself under reduce-motion
 - 🔁 If one engine is unavailable or rate-limited the next picks it up **mid-episode**. You hear a podcast, not an error message
 
-<sub>`three.js` `FastAPI` `Vite` `WebSockets` `multi-engine TTS`</sub>
+<sub>`three.js` `FastAPI` `LiveKit` `Modal` `multi-engine TTS` · <b>source public</b> · MIT</sub>
 
 <br />
 
