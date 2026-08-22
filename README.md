@@ -226,9 +226,9 @@ Each brand is a paired Instagram + YouTube account running the full pipeline ind
 
 <br />
 
-### 💬 [WhatsApp AutoPilot](https://github.com/ys941/whatsapp-autopilot-showcase) — a co-pilot that texts like *you*
+### 💬 [WhatsApp AutoPilot](https://github.com/ys941/whatsapp-autopilot) — a co-pilot that texts like *you*
 
-<img src="https://img.shields.io/badge/status-live-2ea44f?style=flat-square" /> <img src="https://img.shields.io/badge/source-private-30363D?style=flat-square" />
+<img src="https://img.shields.io/badge/status-live-2ea44f?style=flat-square" /> <img src="https://img.shields.io/badge/source-public-2ea44f&logo=github&logoColor=white?style=flat-square" /> <img src="https://img.shields.io/badge/licence-MIT%20%2B%20attribution-7C3AED?style=flat-square" />
 
 > The point isn't "an AI answers your WhatsApp." The point is that the replies read like **you** wrote them.
 
