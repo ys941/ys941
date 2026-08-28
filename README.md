@@ -20,6 +20,11 @@
 
 <br />
 
+I'm **Yati Bhardwaj** — a Medical Laboratory Technologist at AIIMS New Delhi who
+builds clinical AI, lab tooling and automation. My work and free lab tools live at
+**[masstree.in](https://masstree.in/)**: a QC calculator with Westgard rules, a
+buffer dilution calculator, and BioLinguist, a microbiology assistant.
+
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" /> whoami
 
 ```yaml
@@ -142,7 +147,7 @@ An end-to-end screening workbench: drop in a standard recording and it opens the
 
 </div>
 
-### 🚀 [InstaPilot AI](https://github.com/ys941/cardioflow-ai) — a whole content team for Instagram **+** YouTube
+### 🚀 [InstaPilot AI](https://github.com/ys941/instapilot-ai) — a whole content team for Instagram **+** YouTube
 
 <img src="https://img.shields.io/badge/status-running%20at%20scale-2ea44f?style=flat-square" /> <img src="https://img.shields.io/badge/source-public-2ea44f&logo=github&logoColor=white?style=flat-square" /> <img src="https://img.shields.io/badge/license-MIT-7C3AED?style=flat-square" />
 
@@ -180,7 +185,7 @@ One app replacing your writer, designer, video editor and community manager. It 
 
 <br />
 
-### 💓 [CardioFlow AI](https://github.com/ys941/cardioflow-ai-showcase) — the production build, tuned for medical education
+### 💓 CardioFlow AI — the production build, tuned for medical education
 
 <img src="https://img.shields.io/badge/status-in%20production-2ea44f?style=flat-square" /> <img src="https://img.shields.io/badge/source-private-30363D?style=flat-square" />
 
@@ -292,6 +297,25 @@ Type *"why pineapple belongs on pizza"* and an episode is written from nothing �
 | 🌿 | **[masstree.in](https://masstree.in/)** | My portfolio and a **microbiology toolkit** — plus two AI chatbots: *BioLinguist*, which explains microbiology properly, and *RoastBot*, which does not. Static HTML + PHP, prompts kept server-side. |
 | 🎉 | **[Project Birthday](https://github.com/ys941/Project-birthday)** | A five-screen interactive birthday site built as a gift — animated transitions, particle effects and a little narrative. Proof that not everything has to be a SaaS. |
 | 🧪 | **[Kaggle — Qwen3-8B dual RAG](https://www.kaggle.com/yatibhardwaj123)** | One 8B GGUF model serving **two** retrieval-augmented personas from the same weights: a cath-lab clinical assistant and a casual chat persona. |
+
+<br />
+
+### All public repositories
+
+Every project above in one plain list — no images, no badges, just links.
+
+- [aura-clinical-viewer](https://github.com/ys941/aura-clinical-viewer) — browser DICOM workstation with AI analysis
+- [instapilot-ai](https://github.com/ys941/instapilot-ai) — autonomous Instagram + YouTube Shorts content manager
+- [youtubepilot-ai](https://github.com/ys941/youtubepilot-ai) — faceless worker running a YouTube Shorts channel
+- [whatsapp-autopilot](https://github.com/ys941/whatsapp-autopilot) — WhatsApp co-pilot that replies in your own voice
+- [aria](https://github.com/ys941/aria) — AI-to-AI podcast hosted by 3D robots
+- [reelstudio](https://github.com/ys941/reelstudio) — VN-style video editor running entirely in the browser
+- [eeg-epilepsy-analyzer-showcase](https://github.com/ys941/eeg-epilepsy-analyzer-showcase) — EDF screening workbench for EEG
+- [grabbit-downloader-showcase](https://github.com/ys941/grabbit-downloader-showcase) — self-hosted Reels and YouTube downloader
+- [Project-birthday](https://github.com/ys941/Project-birthday) — animated five-screen birthday microsite
+- [ys941](https://github.com/ys941/ys941) — this profile README
+
+Built by **Yati Bhardwaj** · [masstree.in](https://masstree.in/) · New Delhi, India
 
 <br />
 
