@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:7C3AED,100:E4405F&height=200&section=header&text=Yati%20Bhardwaj&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Medical%20Lab%20Technologist%20turned%20Programmer&descAlignY=58&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:7C3AED,100:E4405F&height=200&section=header&text=Yati%20Bhardwaj&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20Engineer%20%C2%B7%20Clinical%20Software%20%C2%B7%20Automation&descAlignY=58&descSize=18" width="100%" />
 
 <a href="https://masstree.in/">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=7C3AED&center=true&vCenter=true&width=800&lines=%F0%9F%94%AC+Medical+Lab+Technologist+%E2%86%92+Programmer;From+petri+dishes+to+pull+requests;I+build+AI+products+that+run+while+I+sleep;Clinical+AI+%E2%80%A2+Automation+%E2%80%A2+Creative+Tools;Powered+by+curiosity%2C+caffeine+and+stubbornness+%E2%98%95" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=7C3AED&center=true&vCenter=true&width=800&lines=I+build+AI+products+that+run+while+I+sleep;From+petri+dishes+to+pull+requests;Clinical+AI+%E2%80%A2+Autonomous+systems+%E2%80%A2+Creative+tools;Ten+products+shipped+solo+%E2%80%94+model+to+UI+to+deploy;Powered+by+curiosity%2C+caffeine+and+stubbornness+%E2%98%95" alt="Typing SVG" />
 </a>
 
 <br /><br />
@@ -20,20 +20,22 @@
 
 <br />
 
-I'm **Yati Bhardwaj** — a medical laboratory scientist who learned to code, and now
-builds the clinical AI, lab tooling and automation I used to wish existed on my own
-bench. My work and free lab tools live at **[masstree.in](https://masstree.in/)**: a
-QC calculator with Westgard rules, a buffer dilution calculator, and BioLinguist, a
-microbiology assistant.
+I'm **Yati Bhardwaj** — an engineer who arrived at code from the other side of the
+microscope. I build clinical AI, lab tooling and automation that runs unattended: ten
+products designed, written and deployed solo, from the first model call to the UI to
+the launcher script. My free lab tools live at **[masstree.in](https://masstree.in/)**
+— a QC calculator with Westgard rules, a buffer dilution calculator, and BioLinguist,
+a microbiology assistant.
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" /> whoami
 
 ```yaml
 name:        Yati Bhardwaj
-day_job:     Medical Laboratory Technologist  🔬
-night_job:   Self-taught coder / full-stack programmer  💻
+role:        AI engineer · full-stack developer  💻
+origin:      the lab bench — microbiology, QC, clinical workflows  🔬
 focus:       Clinical AI · Autonomous content systems · Browser-native creative tools
 approach:    ship end-to-end — model, backend, UI, deploy, and the launcher script
+open_to:     remote and part-time work  🌍
 debugger:    a second cup of coffee  ☕
 fuel_ratio:  60% caffeine · 30% curiosity · 10% pure stubbornness
 site:        https://masstree.in
@@ -333,8 +335,9 @@ pass in the **EEG Analyzer** — while the autopilots keep posting on their own.
 
 ## 🤝 Let's build something
 
-A lab tech who learned to code, looking for work in **clinical AI, medical software
-and AI automation** — and always happy to talk shop (or coffee) about anything above.
+An engineer with a lab scientist's eye for what a clinic actually needs. Open to
+**remote and part-time work** in clinical AI, medical software and AI automation —
+and always happy to talk shop (or coffee) about anything above.
 
 <a href="mailto:ys9410017064@gmail.com"><img src="https://img.shields.io/badge/Gmail-ys9410017064-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://masstree.in/"><img src="https://img.shields.io/badge/Website-masstree.in-7C3AED?style=for-the-badge&logo=aboutdotme&logoColor=white" /></a>
