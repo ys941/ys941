@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:7C3AED,100:E4405F&height=200&section=header&text=Yati%20Bhardwaj&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20Engineer%20%C2%B7%20Clinical%20Software%20%C2%B7%20Automation&descAlignY=58&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:7C3AED,100:E4405F&height=200&section=header&text=Yati%20Bhardwaj&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Developer%20%C2%B7%20AI%20%C2%B7%20Automation%20%C2%B7%20Web%20Apps&descAlignY=58&descSize=18" width="100%" />
 
 <a href="https://masstree.in/">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=7C3AED&center=true&vCenter=true&width=800&lines=I+build+AI+products+that+run+while+I+sleep;From+petri+dishes+to+pull+requests;Clinical+AI+%E2%80%A2+Autonomous+systems+%E2%80%A2+Creative+tools;Ten+products+shipped+solo+%E2%80%94+model+to+UI+to+deploy;Powered+by+curiosity%2C+caffeine+and+stubbornness+%E2%98%95" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=7C3AED&center=true&vCenter=true&width=800&lines=I+build+AI+products+that+run+while+I+sleep;From+petri+dishes+to+pull+requests;AI+products+%E2%80%A2+Automation+%E2%80%A2+Web+apps+%E2%80%A2+Creative+tools;Ten+products+shipped+solo+%E2%80%94+model+to+UI+to+deploy;Powered+by+curiosity%2C+caffeine+and+stubbornness+%E2%98%95" alt="Typing SVG" />
 </a>
 
 <br /><br />
@@ -20,10 +20,10 @@
 
 <br />
 
-I'm **Yati Bhardwaj** — an engineer who arrived at code from the other side of the
-microscope. I build clinical AI, lab tooling and automation that runs unattended: ten
-products designed, written and deployed solo, from the first model call to the UI to
-the launcher script. My free lab tools live at **[masstree.in](https://masstree.in/)**
+I'm **Yati Bhardwaj** — a self-taught developer who arrived at code from the other side
+of the microscope. I build AI products, automation and web apps that run unattended — social
+media autopilots, a WhatsApp co-pilot, a browser video editor, clinical imaging tools — ten
+of them designed, written and deployed solo, from the first model call to the launcher script. My free lab tools live at **[masstree.in](https://masstree.in/)**
 — a QC calculator with Westgard rules, a buffer dilution calculator, and BioLinguist,
 a microbiology assistant.
 
@@ -31,7 +31,7 @@ a microbiology assistant.
 
 ```yaml
 name:        Yati Bhardwaj
-role:        AI engineer · full-stack developer  💻
+role:        software developer · AI, automation & web products  💻
 origin:      the lab bench — microbiology, QC, clinical workflows  🔬
 focus:       Clinical AI · Autonomous content systems · Browser-native creative tools
 approach:    ship end-to-end — model, backend, UI, deploy, and the launcher script
@@ -335,9 +335,9 @@ pass in the **EEG Analyzer** — while the autopilots keep posting on their own.
 
 ## 🤝 Let's build something
 
-An engineer with a lab scientist's eye for what a clinic actually needs. Open to
-**remote and part-time work** in clinical AI, medical software and AI automation —
-and always happy to talk shop (or coffee) about anything above.
+A self-taught developer with a lab scientist's eye for what people actually need. Open to
+**remote and part-time work** across AI products, automation and web development — healthcare
+included, but far from only — and always happy to talk shop (or coffee) about anything above.
 
 <a href="mailto:ys9410017064@gmail.com"><img src="https://img.shields.io/badge/Gmail-ys9410017064-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://masstree.in/"><img src="https://img.shields.io/badge/Website-masstree.in-7C3AED?style=for-the-badge&logo=aboutdotme&logoColor=white" /></a>
