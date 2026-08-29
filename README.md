@@ -20,10 +20,11 @@
 
 <br />
 
-I'm **Yati Bhardwaj** — a Medical Laboratory Technologist at AIIMS New Delhi who
-builds clinical AI, lab tooling and automation. My work and free lab tools live at
-**[masstree.in](https://masstree.in/)**: a QC calculator with Westgard rules, a
-buffer dilution calculator, and BioLinguist, a microbiology assistant.
+I'm **Yati Bhardwaj** — a medical laboratory scientist who learned to code, and now
+builds the clinical AI, lab tooling and automation I used to wish existed on my own
+bench. My work and free lab tools live at **[masstree.in](https://masstree.in/)**: a
+QC calculator with Westgard rules, a buffer dilution calculator, and BioLinguist, a
+microbiology assistant.
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" /> whoami
 
