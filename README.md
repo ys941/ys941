@@ -11,6 +11,8 @@
 <p>
   <a href="https://masstree.in/"><img src="https://img.shields.io/badge/Portfolio-masstree.in-7C3AED?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" /></a>
   <a href="mailto:ys9410017064@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/ys941?tab=followers"><img src="https://img.shields.io/github/followers/ys941?label=Follow%20%40ys941&style=for-the-badge&logo=github&logoColor=white&color=181717" alt="Follow on GitHub" /></a>
+  <a href="https://x.com/bhardwaj_yati"><img src="https://img.shields.io/badge/X-%40bhardwaj__yati-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
   <a href="https://github.com/ys941?tab=repositories"><img src="https://img.shields.io/badge/Projects-10%2B%20shipped-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Projects" /></a>
   <img src="https://komarev.com/ghpvc/?username=ys941&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" alt="Profile views" />
   <img src="https://img.shields.io/badge/powered%20by-caffeine-6F4E37?style=for-the-badge&logo=buymeacoffee&logoColor=white" alt="Powered by caffeine" />
@@ -222,6 +224,10 @@ Each brand is a paired Instagram + YouTube account running the full pipeline ind
 <img src="https://img.shields.io/badge/source-public-2ea44f?style=flat-square&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/license-MIT-7C3AED?style=flat-square" />
 
 > **A full VN-style editor running entirely in the browser.** No installs, no uploads, 100% client-side.
+>
+> **[▶ Try the live demo](https://ys941.github.io/reelstudio/)** — opens straight in your browser.
+
+<a href="https://ys941.github.io/reelstudio/"><img src="https://raw.githubusercontent.com/ys941/reelstudio/main/docs/screenshots/editor.png" alt="ReelStudio editor" width="100%" /></a>
 
 - 🧱 Multi-track timeline with drag across tracks, trim, split, duplicate, snapping and zoom — plus a live canvas preview with on-stage drag / scale / rotate handles
 - 🎞️ **Keyframes** for position, scale, rotation and opacity; 0.1×–4× speed ramping; 8 transitions (fade, dissolve, slide, wipe, zoom, blur, glitch, whip)
@@ -342,6 +348,11 @@ included, but far from only — and always happy to talk shop (or coffee) about 
 <a href="mailto:ys9410017064@gmail.com"><img src="https://img.shields.io/badge/Gmail-ys9410017064-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://masstree.in/"><img src="https://img.shields.io/badge/Website-masstree.in-7C3AED?style=for-the-badge&logo=aboutdotme&logoColor=white" /></a>
 <a href="https://github.com/ys941"><img src="https://img.shields.io/badge/GitHub-ys941-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://x.com/bhardwaj_yati"><img src="https://img.shields.io/badge/X-bhardwaj__yati-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+
+<br /><br />
+
+If something here is useful to you, a ⭐ on the repo or a **[follow](https://github.com/ys941)** is how I find out — it genuinely decides what I build next.
 
 <br /><br />
 
