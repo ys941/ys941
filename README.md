@@ -267,6 +267,8 @@ Auto-reply is **off by default and opt-in per contact** — a master switch *plu
 ### 🎙️ [Aria](https://github.com/ys941/aria) — an AI-to-AI podcast hosted by 3D robots
 
 > Pick a topic. Two robots take the mic. **Neither of them knew what they were going to say.** <img src="https://img.shields.io/badge/licence-MIT%20%2B%20attribution-7C3AED?style=flat-square" />
+>
+> **[▶ Tune in to the live demo](https://ys941.github.io/aria/)** — Reachy FM and the 3D robots, right in your browser.
 
 Type *"why pineapple belongs on pizza"* and an episode is written from nothing — cast invented to fit the subject, roughly two dozen lines — then voiced line by line and streamed to your browser, where two robot hosts perform it. From a blank field to two robots arguing: about a minute.
 
