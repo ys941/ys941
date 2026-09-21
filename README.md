@@ -110,6 +110,10 @@ on caffeine.
 <img src="https://img.shields.io/badge/status-working%20prototype-F59E0B?style=flat-square" /> <img src="https://img.shields.io/badge/source-public-2ea44f&logo=github&logoColor=white?style=flat-square" /> <img src="https://img.shields.io/badge/licence-MIT%20%2B%20attribution-7C3AED?style=flat-square" />
 
 > **One workstation for every scan.** A clinician shouldn't need one tool for a CT, another for a fundus photograph and a third for a scanned report.
+>
+> **[▶ Open the live demo](https://ys941.github.io/aura-clinical-viewer/)** — loads a sample CT study in one click, entirely in your browser.
+
+<a href="https://ys941.github.io/aura-clinical-viewer/"><img src="https://raw.githubusercontent.com/ys941/aura-clinical-viewer/main/docs/screenshots/viewer.png" alt="Aura viewing a CT study" width="100%" /></a>
 
 Aura opens a bare study file with no extension, a multi-frame series, a **ZIP containing an entire examination** across several folders, or an everyday PNG — all in the same browser viewer, with the same tools. It has **no database and no storage**: a study is decoded locally, worked on, and gone when the tab closes. Nothing is uploaded to be kept, because there is nowhere to keep it.
 
