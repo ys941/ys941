@@ -182,6 +182,10 @@ An end-to-end screening workbench: drop in a standard recording and it opens the
 <img src="https://img.shields.io/badge/status-running%20at%20scale-2ea44f?style=flat-square" /> <img src="https://img.shields.io/badge/source-public-2ea44f&logo=github&logoColor=white?style=flat-square" /> <img src="https://img.shields.io/badge/license-MIT-7C3AED?style=flat-square" />
 
 > **One AI brain. Two platforms. Zero daily effort.**
+>
+> **[▶ Open the live demo](https://ys941.github.io/instapilot-ai/)** — the dashboard in demo mode, straight in your browser.
+
+<a href="https://ys941.github.io/instapilot-ai/"><img src="https://raw.githubusercontent.com/ys941/instapilot-ai/main/docs/screenshots/01-overview.png" alt="InstaPilot AI dashboard" width="100%" /></a>
 
 Running a serious Instagram *and* YouTube presence is two full-time jobs — ideate, write, design, render, schedule, cross-post, then answer every comment and DM, forever. InstaPilot collapses all of it into one self-hosted app running on accounts that are entirely yours.
 
@@ -201,6 +205,8 @@ Running a serious Instagram *and* YouTube presence is two full-time jobs — ide
 <img src="https://img.shields.io/badge/status-running%20at%20scale-2ea44f?style=flat-square" /> <img src="https://img.shields.io/badge/source-public-2ea44f&logo=github&logoColor=white?style=flat-square" /> <img src="https://img.shields.io/badge/license-MIT-7C3AED?style=flat-square" />
 
 > **Idea → script → video → upload → engage. Fully unattended.**
+>
+> **[▶ Open the live demo](https://ys941.github.io/youtubepilot-ai/)** — the channel worker's dashboard, in your browser.
 
 One app replacing your writer, designer, video editor and community manager. It runs the daily grind on a schedule you set, in a niche and voice you choose, on a channel that's 100% yours.
 
@@ -270,6 +276,10 @@ Each brand is a paired Instagram + YouTube account running the full pipeline ind
 <img src="https://img.shields.io/badge/status-live-2ea44f?style=flat-square" /> <img src="https://img.shields.io/badge/source-public-2ea44f&logo=github&logoColor=white?style=flat-square" /> <img src="https://img.shields.io/badge/licence-MIT%20%2B%20attribution-7C3AED?style=flat-square" />
 
 > The point isn't "an AI answers your WhatsApp." The point is that the replies read like **you** wrote them.
+>
+> **[▶ Open the live demo](https://ys941.github.io/whatsapp-autopilot/)** — the co-pilot dashboard with sample chats.
+
+<a href="https://ys941.github.io/whatsapp-autopilot/"><img src="https://raw.githubusercontent.com/ys941/whatsapp-autopilot/main/docs/screenshots/wa-dashboard.png" alt="WhatsApp AutoPilot dashboard" width="100%" /></a>
 
 Auto-reply is **off by default and opt-in per contact** — a master switch *plus* a per-chat toggle — so it never speaks for you to someone you didn't authorise.
 
@@ -290,6 +300,8 @@ Auto-reply is **off by default and opt-in per contact** — a master switch *plu
 > Pick a topic. Two robots take the mic. **Neither of them knew what they were going to say.** <img src="https://img.shields.io/badge/licence-MIT%20%2B%20attribution-7C3AED?style=flat-square" />
 >
 > **[▶ Tune in to the live demo](https://ys941.github.io/aria/)** — Reachy FM and the 3D robots, right in your browser.
+
+<a href="https://ys941.github.io/aria/"><img src="https://raw.githubusercontent.com/ys941/aria/main/docs/screenshots/aria-hero.png" alt="Aria — two robot hosts on air" width="100%" /></a>
 
 Type *"why pineapple belongs on pizza"* and an episode is written from nothing — cast invented to fit the subject, roughly two dozen lines — then voiced line by line and streamed to your browser, where two robot hosts perform it. From a blank field to two robots arguing: about a minute.
 
@@ -331,7 +343,7 @@ Type *"why pineapple belongs on pizza"* and an episode is written from nothing �
 | | Project | What it is |
 |:--:|---|---|
 | 🌿 | **[masstree.in](https://masstree.in/)** | My portfolio and a **lab toolkit**: a QC calculator with the full Westgard multi-rule set (dated entries, target mean/SD, saved runs, a designed printed report), a dilution calculator (single, serial, molarity), and *BioLinguist* — an assistant that answers by voice, understands Hindi and Hinglish, and works the site (opens tools, runs the calculators, drafts the contact form). Plus *RoastBot*, which does not explain anything properly. Static HTML + PHP, prompts and keys kept server-side. |
-| 🎉 | **[Project Birthday](https://github.com/ys941/Project-birthday)** | A five-screen interactive birthday site built as a gift — animated transitions, particle effects and a little narrative. Proof that not everything has to be a SaaS. |
+| 🎉 | **[Project Birthday](https://github.com/ys941/Project-birthday)** | A five-screen interactive birthday site built as a gift — animated transitions, particle effects and a little narrative. Proof that not everything has to be a SaaS. **[▶ Open the live demo](https://ys941.github.io/Project-birthday/)** |
 | 🧪 | **[Kaggle — Qwen3-8B dual RAG](https://www.kaggle.com/yatibhardwaj123)** | One 8B GGUF model serving **two** retrieval-augmented personas from the same weights: a cath-lab clinical assistant and a casual chat persona. |
 
 <br />
