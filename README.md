@@ -30,6 +30,26 @@ of them designed, written and deployed solo, from the first model call to the la
 a buffer / serial / molarity dilution calculator; and BioLinguist, a voice-enabled, Hindi-speaking
 assistant that works the site for you.
 
+## ▶️ Live demos
+
+Every one of these opens in your browser right now — no install, no sign-up, no keys.
+
+| | Project | What you'll see | |
+|:--:|---|---|:--:|
+| 🚀 | **InstaPilot AI** | The autonomous Instagram + YouTube Shorts content manager, in demo mode with sample brands | [**Open**](https://ys941.github.io/instapilot-ai/) |
+| ▶️ | **YouTubePilot AI** | The faceless Shorts channel worker: topics, scripts, cards, render, schedule | [**Open**](https://ys941.github.io/youtubepilot-ai/) |
+| 💬 | **WhatsApp AutoPilot** | The co-pilot dashboard: per-contact style, holds, voice notes, the `@bot` side-channel | [**Open**](https://ys941.github.io/whatsapp-autopilot/) |
+| 🎙️ | **Aria** | Two 3D robots perform a podcast written from your topic | [**Open**](https://ys941.github.io/aria/) |
+| 🫀 | **Aura Clinical Viewer** | A DICOM workstation in the browser — loads a sample CT study in one click | [**Open**](https://ys941.github.io/aura-clinical-viewer/) |
+| ✂️ | **ReelStudio** | A VN-style video editor: multi-track timeline, keyframes, chroma key, 4K export | [**Open**](https://ys941.github.io/reelstudio/) |
+| 🎉 | **Project Birthday** | A five-screen animated birthday microsite | [**Open**](https://ys941.github.io/Project-birthday/) |
+| 🧮 | **QC Calculator** | Levey-Jennings chart, the full Westgard rule set, dated logs, printed reports | [**Open**](https://masstree.in/tools.html) |
+| 💧 | **Dilution Calculator** | Single, serial and molarity dilutions for the bench | [**Open**](https://masstree.in/dilution.html) |
+| 🤖 | **BioLinguist** | The site assistant: talk to it, in English or Hindi, and it works the site | [**Open**](https://masstree.in/#BioLinguist) |
+| 🌿 | **masstree.in** | The portfolio itself | [**Open**](https://masstree.in/) |
+
+<br />
+
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" /> whoami
 
 ```yaml
