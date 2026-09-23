@@ -26,8 +26,9 @@ I'm **Yati Bhardwaj** — a self-taught developer who arrived at code from the o
 of the microscope. I build AI products, automation and web apps that run unattended — social
 media autopilots, a WhatsApp co-pilot, a browser video editor, clinical imaging tools — ten
 of them designed, written and deployed solo, from the first model call to the launcher script. My free lab tools live at **[masstree.in](https://masstree.in/)**
-— a QC calculator with Westgard rules, a buffer dilution calculator, and BioLinguist,
-a microbiology assistant.
+— a QC calculator with the full Westgard multi-rule set, dated control logs and printed reports;
+a buffer / serial / molarity dilution calculator; and BioLinguist, a voice-enabled, Hindi-speaking
+assistant that works the site for you.
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" /> whoami
 
@@ -309,7 +310,7 @@ Type *"why pineapple belongs on pizza"* and an episode is written from nothing �
 
 | | Project | What it is |
 |:--:|---|---|
-| 🌿 | **[masstree.in](https://masstree.in/)** | My portfolio and a **microbiology toolkit** — plus two AI chatbots: *BioLinguist*, which explains microbiology properly, and *RoastBot*, which does not. Static HTML + PHP, prompts kept server-side. |
+| 🌿 | **[masstree.in](https://masstree.in/)** | My portfolio and a **lab toolkit**: a QC calculator with the full Westgard multi-rule set (dated entries, target mean/SD, saved runs, a designed printed report), a dilution calculator (single, serial, molarity), and *BioLinguist* — an assistant that answers by voice, understands Hindi and Hinglish, and works the site (opens tools, runs the calculators, drafts the contact form). Plus *RoastBot*, which does not explain anything properly. Static HTML + PHP, prompts and keys kept server-side. |
 | 🎉 | **[Project Birthday](https://github.com/ys941/Project-birthday)** | A five-screen interactive birthday site built as a gift — animated transitions, particle effects and a little narrative. Proof that not everything has to be a SaaS. |
 | 🧪 | **[Kaggle — Qwen3-8B dual RAG](https://www.kaggle.com/yatibhardwaj123)** | One 8B GGUF model serving **two** retrieval-augmented personas from the same weights: a cath-lab clinical assistant and a casual chat persona. |
 
@@ -340,8 +341,10 @@ Built by **Yati Bhardwaj** · [masstree.in](https://masstree.in/) · New Delhi, 
 
 ## 🔭 Currently
 
-Deepening the clinical side — better study handling in **Aura**, a sharper screening
-pass in the **EEG Analyzer** — while the autopilots keep posting on their own.
+Turning the **masstree.in QC calculator** into a proper bench tool — dated control logs,
+target mean/SD, the full Westgard rule set and printed reports — alongside better study
+handling in **Aura** and a sharper screening pass in the **EEG Analyzer**, while the
+autopilots keep posting on their own.
 
 <br />
 
