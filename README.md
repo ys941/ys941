@@ -46,6 +46,12 @@ Every one of these opens in your browser right now — no install, no sign-up, n
 | 🧮 | **QC Calculator** | Levey-Jennings chart, the full Westgard rule set, dated logs, printed reports | [**Open**](https://masstree.in/tools.html) |
 | 💧 | **Dilution Calculator** | Single, serial and molarity dilutions for the bench | [**Open**](https://masstree.in/dilution.html) |
 | 🤖 | **BioLinguist** | The site assistant: talk to it, in English or Hindi, and it works the site | [**Open**](https://masstree.in/#BioLinguist) |
+| ❤️ | **Health Calculator** | BMI, BMR, maintenance calories, a deficit or surplus target and its protein / carbs / fat | [**Open**](https://masstree.in/health-calculator.html) |
+| 🖼️ | **Image Compressor** | Shrink, resize and convert JPG / PNG / WebP / HEIC in the browser | [**Open**](https://masstree.in/image-compressor.html) |
+| 📄 | **PDF Tools** | Merge, split, compress, rotate, number, PDF ↔ images — nothing uploaded | [**Open**](https://masstree.in/pdf-tools.html) |
+| 🔳 | **QR Code Generator** | Link, Wi-Fi, vCard, UPI, WhatsApp codes with colours and a logo; PNG or SVG | [**Open**](https://masstree.in/qr-code-generator.html) |
+| 🔐 | **Password Generator** | Random passwords and passphrases with an honest strength check | [**Open**](https://masstree.in/password-generator.html) |
+| 🔤 | **Word Counter** | Words, characters, reading time and limits — Hindi aware | [**Open**](https://masstree.in/word-counter.html) |
 | 🌿 | **masstree.in** | The portfolio itself | [**Open**](https://masstree.in/) |
 
 <br />
@@ -342,7 +348,7 @@ Type *"why pineapple belongs on pizza"* and an episode is written from nothing �
 
 | | Project | What it is |
 |:--:|---|---|
-| 🌿 | **[masstree.in](https://masstree.in/)** | My portfolio and a **lab toolkit**: a QC calculator with the full Westgard multi-rule set (dated entries, target mean/SD, saved runs, a designed printed report), a dilution calculator (single, serial, molarity), and *BioLinguist* — an assistant that answers by voice, understands Hindi and Hinglish, and works the site (opens tools, runs the calculators, drafts the contact form). Plus *RoastBot*, which does not explain anything properly. Static HTML + PHP, prompts and keys kept server-side. |
+| 🌿 | **[masstree.in](https://masstree.in/)** | My portfolio and a **lab toolkit**: a QC calculator with the full Westgard multi-rule set (dated entries, target mean/SD, saved runs, a designed printed report), a dilution calculator (single, serial, molarity), everyday utilities (BMI / calorie / macro calculator, image compressor, PDF tools, QR generator, password generator, word counter — all client-side), and *BioLinguist* — an assistant that answers by voice, understands Hindi and Hinglish, and works the site (opens tools, runs the calculators, drafts the contact form). Plus *RoastBot*, which does not explain anything properly. Static HTML + PHP, prompts and keys kept server-side. |
 | 🎉 | **[Project Birthday](https://github.com/ys941/Project-birthday)** | A five-screen interactive birthday site built as a gift — animated transitions, particle effects and a little narrative. Proof that not everything has to be a SaaS. **[▶ Open the live demo](https://ys941.github.io/Project-birthday/)** |
 | 🧪 | **[Kaggle — Qwen3-8B dual RAG](https://www.kaggle.com/yatibhardwaj123)** | One 8B GGUF model serving **two** retrieval-augmented personas from the same weights: a cath-lab clinical assistant and a casual chat persona. |
 
