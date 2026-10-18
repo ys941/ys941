@@ -14,7 +14,7 @@
   <a href="https://github.com/ys941"><img src="https://img.shields.io/badge/Follow-%40ys941-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" /></a>
   <a href="https://x.com/bhardwaj_yati"><img src="https://img.shields.io/badge/X-%40bhardwaj__yati-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
   <a href="https://github.com/ys941?tab=repositories"><img src="https://img.shields.io/badge/Projects-10%2B%20shipped-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Projects" /></a>
-  <img src="https://komarev.com/ghpvc/?username=ys941&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" alt="Profile views" />
+  <img src="https://hits.sh/github.com/ys941.svg?style=for-the-badge&label=Profile%20views&color=7c3aed" alt="Profile views" />
   <img src="https://img.shields.io/badge/powered%20by-caffeine-6F4E37?style=for-the-badge&logo=buymeacoffee&logoColor=white" alt="Powered by caffeine" />
 </p>
 
