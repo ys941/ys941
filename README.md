@@ -134,7 +134,7 @@ on caffeine.
 
 ### 🫀 [Aura — Universal Clinical Viewer](https://github.com/ys941/aura-clinical-viewer)
 
-<img src="https://img.shields.io/badge/status-working%20prototype-F59E0B?style=flat-square" /> <img src="https://img.shields.io/badge/source-public-2ea44f&logo=github&logoColor=white?style=flat-square" /> <img src="https://img.shields.io/badge/licence-MIT%20%2B%20attribution-7C3AED?style=flat-square" />
+<img src="https://img.shields.io/badge/status-working%20prototype-F59E0B?style=flat-square" /> <img src="https://img.shields.io/badge/source-public-2ea44f?style=flat-square&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/licence-MIT%20%2B%20attribution-7C3AED?style=flat-square" />
 
 > **One workstation for every scan.** A clinician shouldn't need one tool for a CT, another for a fundus photograph and a third for a scanned report.
 >
@@ -185,7 +185,7 @@ An end-to-end screening workbench: drop in a standard recording and it opens the
 
 ### 🚀 [InstaPilot AI](https://github.com/ys941/instapilot-ai) — a whole content team for Instagram **+** YouTube
 
-<img src="https://img.shields.io/badge/status-running%20at%20scale-2ea44f?style=flat-square" /> <img src="https://img.shields.io/badge/source-public-2ea44f&logo=github&logoColor=white?style=flat-square" /> <img src="https://img.shields.io/badge/license-MIT-7C3AED?style=flat-square" />
+<img src="https://img.shields.io/badge/status-running%20at%20scale-2ea44f?style=flat-square" /> <img src="https://img.shields.io/badge/source-public-2ea44f?style=flat-square&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/license-MIT-7C3AED?style=flat-square" />
 
 > **One AI brain. Two platforms. Zero daily effort.**
 >
@@ -208,7 +208,7 @@ Running a serious Instagram *and* YouTube presence is two full-time jobs — ide
 
 ### ▶️ [YouTubePilot AI](https://github.com/ys941/youtubepilot-ai) — a faceless worker that runs a Shorts channel
 
-<img src="https://img.shields.io/badge/status-running%20at%20scale-2ea44f?style=flat-square" /> <img src="https://img.shields.io/badge/source-public-2ea44f&logo=github&logoColor=white?style=flat-square" /> <img src="https://img.shields.io/badge/license-MIT-7C3AED?style=flat-square" />
+<img src="https://img.shields.io/badge/status-running%20at%20scale-2ea44f?style=flat-square" /> <img src="https://img.shields.io/badge/source-public-2ea44f?style=flat-square&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/license-MIT-7C3AED?style=flat-square" />
 
 > **Idea → script → video → upload → engage. Fully unattended.**
 >
@@ -279,7 +279,7 @@ Each brand is a paired Instagram + YouTube account running the full pipeline ind
 
 ### 💬 [WhatsApp AutoPilot](https://github.com/ys941/whatsapp-autopilot) — a co-pilot that texts like *you*
 
-<img src="https://img.shields.io/badge/status-live-2ea44f?style=flat-square" /> <img src="https://img.shields.io/badge/source-public-2ea44f&logo=github&logoColor=white?style=flat-square" /> <img src="https://img.shields.io/badge/licence-MIT%20%2B%20attribution-7C3AED?style=flat-square" />
+<img src="https://img.shields.io/badge/status-live-2ea44f?style=flat-square" /> <img src="https://img.shields.io/badge/source-public-2ea44f?style=flat-square&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/licence-MIT%20%2B%20attribution-7C3AED?style=flat-square" />
 
 > The point isn't "an AI answers your WhatsApp." The point is that the replies read like **you** wrote them.
 >
@@ -303,7 +303,9 @@ Auto-reply is **off by default and opt-in per contact** — a master switch *plu
 
 ### 🎙️ [Aria](https://github.com/ys941/aria) — an AI-to-AI podcast hosted by 3D robots
 
-> Pick a topic. Two robots take the mic. **Neither of them knew what they were going to say.** <img src="https://img.shields.io/badge/licence-MIT%20%2B%20attribution-7C3AED?style=flat-square" />
+<img src="https://img.shields.io/badge/status-live%20demo-2ea44f?style=flat-square" /> <img src="https://img.shields.io/badge/source-public-2ea44f?style=flat-square&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/licence-MIT%20%2B%20attribution-7C3AED?style=flat-square" />
+
+> Pick a topic. Two robots take the mic. **Neither of them knew what they were going to say.**
 >
 > **[▶ Tune in to the live demo](https://ys941.github.io/aria/)** — Reachy FM and the 3D robots, right in your browser.
 
@@ -369,20 +371,26 @@ Every project above in one plain list — no images, no badges, just links.
 - [Project-birthday](https://github.com/ys941/Project-birthday) — animated five-screen birthday microsite
 - [ys941](https://github.com/ys941/ys941) — this profile README
 
-Built by **Yati Bhardwaj** · [masstree.in](https://masstree.in/) · New Delhi, India
-
 <br />
 
 ---
 
 <div align="center">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ys941/ys941/output/snake-dark.svg">
+  <img alt="Contribution graph being eaten by a snake" src="https://raw.githubusercontent.com/ys941/ys941/output/snake-light.svg" width="100%" />
+</picture>
+
+<sub>My last year of commits, redrawn twice a day</sub>
+
+<br /><br />
+
 ## 🔭 Currently
 
-Turning the **masstree.in QC calculator** into a proper bench tool — dated control logs,
-target mean/SD, the full Westgard rule set and printed reports — alongside better study
-handling in **Aura** and a sharper screening pass in the **EEG Analyzer**, while the
-autopilots keep posting on their own.
+Better study handling in **Aura**, a sharper screening pass in the **EEG Analyzer**, and more
+everyday tools on **[masstree.in](https://masstree.in/)** — while the autopilots keep posting
+on their own.
 
 <br />
 
@@ -406,6 +414,8 @@ If something here is useful to you, a ⭐ on the repo or a **[follow](https://gi
 > *"Isolate the problem. Culture a fix. Ship the cure."*
 >
 > — still the same job, just a different bench ☕
+
+<sub>Built by <b>Yati Bhardwaj</b> · <a href="https://masstree.in/">masstree.in</a> · New Delhi, India</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E4405F,50:7C3AED,100:0F172A&height=140&section=footer" width="100%" />
 
