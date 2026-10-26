@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:7C3AED,100:E4405F&height=200&section=header&text=Yati%20Bhardwaj&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Developer%20%C2%B7%20AI%20%C2%B7%20Automation%20%C2%B7%20Web%20Apps&descAlignY=58&descSize=18" width="100%" />
+<a href="https://masstree.in/"><img src="assets/header.webp" alt="Yati Bhardwaj — Software Developer · AI · Automation · Web Apps" width="100%" /></a>
 
 <a href="https://masstree.in/">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=7C3AED&center=true&vCenter=true&width=800&lines=I+build+AI+products+that+run+while+I+sleep;From+petri+dishes+to+pull+requests;AI+products+%E2%80%A2+Automation+%E2%80%A2+Web+apps+%E2%80%A2+Creative+tools;Ten+products+shipped+solo+%E2%80%94+model+to+UI+to+deploy;Powered+by+curiosity%2C+caffeine+and+stubbornness+%E2%98%95" alt="Typing SVG" />
